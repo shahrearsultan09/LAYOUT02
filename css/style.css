@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: darkgrey;
+    height: 50px;
+    text-align: center;
+}
+.nav{
+    text-align: center;
+    background-color: rgb(168, 133, 87);
+    height: 55px;
+}
+.main{
+    display: flex;
+}
+.leftside{
+    width: 65%;
+    background-color: rgb(118, 189, 247);
+    height: 470px   ;
+}
+.top{
+    
+    background-color: rosybrown;
+    height: 235px;
+}
+.down{
+    
+    background-color: darkcyan;
+    height: 235px;
+}
+.rightside{
+    width: 35%;
+    background-color: rgb(255, 151, 151);
+    height: 470px;
+}
+.footer{
+    text-align: center;
+    background-color: gray;
+    height: 55px;
+}
